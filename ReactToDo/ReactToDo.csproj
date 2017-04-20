@@ -6,7 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\js\todo.jsx" />
+    <Content Include="wwwroot\js\TaskItem.jsx" />
+    <Content Include="wwwroot\js\TaskList.jsx" />
+    <Content Include="wwwroot\js\TasksList.jsx" />
+    <Content Include="wwwroot\js\TaskApp.jsx" />
+    <Content Include="wwwroot\js\ToDoApp.jsx" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
