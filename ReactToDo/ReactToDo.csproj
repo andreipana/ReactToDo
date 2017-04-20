@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\js\AddTaskPanel.jsx" />
     <Content Include="wwwroot\js\TaskItem.jsx" />
     <Content Include="wwwroot\js\TaskList.jsx" />
     <Content Include="wwwroot\js\TasksList.jsx" />

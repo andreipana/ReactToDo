@@ -2,7 +2,10 @@
 
     render: function () {
         return (
-            <TasksList Data={this.props.Data} />
+            <div>
+                <TasksList Data={this.props.Data} />
+                <AddTaskPanel />
+            </div>
         );
     }
 });

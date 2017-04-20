@@ -6,7 +6,7 @@
 
         return (
             <div>
-                <span>{this.props.Data.length} tasks</span>
+                <span className="TasksListCount">{this.props.Data.length} tasks</span>
                 <table>
                     <thead>
                         <tr>

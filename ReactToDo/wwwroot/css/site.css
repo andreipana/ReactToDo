@@ -16,3 +16,14 @@ td, th {
 th {
     background-color: #F7F7F7;
 }
+
+
+
+.AddTaskPanel {
+    margin: 8px;
+}
+
+
+.TasksListCount {
+    margin: 8px;
+}
